@@ -9,7 +9,7 @@
 #
 explanations = require './data/explanations.json'
 jargon = for key of explanations
-  "\\b#{key}\\b"
+  key
 regex = new RegExp jargon.join('|'), 'gi'
 
 module.exports = (robot) ->
