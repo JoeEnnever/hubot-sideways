@@ -14,7 +14,10 @@ regex = new RegExp jargon.join('|'), 'gi'
 
 module.exports = (robot) ->
   robot.hear regex, (msg) ->
+    bytes = []
     console.log(msg.message.text)
+    bytes.append(x.charCodeAt(0)) for x in msg.message.text
+    console.log(bytes)
     match = regex.exec(msg.message.text)
     console.log(match)
     if match
