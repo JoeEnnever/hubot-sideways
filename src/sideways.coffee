@@ -14,6 +14,8 @@ regex = new RegExp jargon.join('|'), 'gi'
 
 module.exports = (robot) ->
   robot.hear regex, (msg) ->
+    console.log(msg.message.text)
     match = regex.exec(msg.message.text)
+    console.log(match)
     if match
       msg.send "#{match[0]}: #{explanations[match[0].toLowerCase()].join("\n")}"
