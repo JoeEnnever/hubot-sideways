@@ -14,5 +14,5 @@ regex = new RegExp jargon.join('|'), 'gi'
 module.exports = (robot) ->
   robot.hear regex, (msg) ->
     match = regex.exec(msg.message.text)
-    if match:
+    if match
       msg.send "#{match[0]}: #{explanations[match[0]].join("\n")}"
