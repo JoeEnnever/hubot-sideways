@@ -1,0 +1,520 @@
+[
+  {
+    "term": "2 factor authentication",
+    "explanation": [
+      "It’s like Cinderella’s slipper.",
+      "She can give her name and confirm where she was before midnight, but it’s only when the slipper fits that Prince Charming knows she’s for real. The Prince was an early adopter of 2FA."
+    ]
+  },
+  {
+    "term": "api",
+    "explanation": [
+      "It's like a harbor.",
+      "It's designed to move shipping containers of certain shapes and sizes in and out. It might be open to the public, or it might be for VIP use only. "
+    ]
+  },
+  {
+    "term": "access control list",
+    "explanation": [
+      "It’s like turnstiles for software.",
+      "If you’re an authorized visitor, you’ll stroll straight through."
+    ]
+  },
+  {
+    "term": "ad blocking",
+    "explanation": [
+      "It’s like auto-skipping the ads on recorded TV.",
+      "The ads fund the programs, but if people can find a way to avoid watching them, they usually do."
+    ]
+  },
+  {
+    "term": "agile software development",
+    "explanation": [
+      "It's like finishing a ship while at sea.",
+      "You first get the minimum you need to make it float: a hull and maybe a mast. Then, instead of finishing it before you launch, you go ahead and launch it and finish building it while it's at sea. This way you have to focus on the most important things. "
+    ]
+  },
+  {
+    "term": "anonymization",
+    "explanation": [
+      "It’s like pixelating someone’s face in a video.",
+      "You can still hear what they say, but you don’t know who they are."
+    ]
+  },
+  {
+    "term": "app",
+    "explanation": [
+      "It’s like a corkscrew.",
+      "A corkscrew does one job (an important job, in this case) really well. Meanwhile, a browser is like a Swiss Army Knife – an all-purpose tool that lets you do a lot of different things to a basic level."
+    ]
+  },
+  {
+    "term": "autocomplete",
+    "explanation": [
+      "It’s like someone jumping in and finishing your sentences.",
+      "Fun and impressive if it’s your telepathic best friend, but annoying if it’s someone else who always gets it wrong."
+    ]
+  },
+  {
+    "term": "back end",
+    "explanation": [
+      "It’s like the ground beneath a city.",
+      "Above ground are all the familiar sights – HTML houses, CSS cathedrals, Javascript office blocks. Beneath the ground are the utilities that make the city function smoothly – a labyrinthine network of web servers, applications, and databases."
+    ]
+  },
+  {
+    "term": "backdoor",
+    "explanation": [
+      "It’s like a secret book on the library shelf ",
+      "that opens a door when you lift it. Only the creator of the hidden door knows its location, but it’s theoretically possible for other people to have a look and get lucky."
+    ]
+  },
+  {
+    "term": "bandwidth",
+    "explanation": [
+      "It’s like a water pipe",
+      "that serves the shower, washing machine and dishwasher in your apartment. If you run all three at the same time, you’ll notice a drop in pressure and whoever’s in the shower will get annoyed."
+    ]
+  },
+  {
+    "term": "big data",
+    "explanation": [
+      "It’s like mapping a new world.",
+      "At ground level, as you hack your way through the undergrowth and scramble across ravines, you might struggle to build up a clear picture. But with the right tool (a hot air balloon), you can see the whole landscape and identify patterns, like the contours of a mountain or meandering flow of a river."
+    ]
+  },
+  {
+    "term": "bitcoin",
+    "explanation": [
+      "It’s like digital gold.",
+      "There is a finite BitCoin supply that can be ‘mined’ every year (by using sophisticated software, not a pick and shovel). And, like gold, you can exchange it from one person to another without the need for a bank."
+    ]
+  },
+  {
+    "term": "bittorrent",
+    "explanation": [
+      "It’s like photocopying a book.",
+      "If you have one person and one photocopier, it’s a laborious process to copy each page. But if you have many photocopiers and willing helpers, you can tear the pages out, copy a few each, and assemble a new book pretty quickly."
+    ]
+  },
+  {
+    "term": "black hat",
+    "explanation": [
+      "It’s like a bad cowboy.",
+      "The term comes from old Western movies, where the good guys generally wore white hats and the bad guys wore black. Simpler times."
+    ]
+  },
+  {
+    "term": "blockchain",
+    "explanation": [
+      "It's like the minutes at a Town Hall meeting, written by two very accurate people.",
+      "Both writers take down exactly what happened when it happened in the meeting and they look over their notes to make sure the two are exactly the same. Checks and balances."
+    ]
+  },
+  {
+    "term": "bot",
+    "explanation": [
+      "It’s like worker ants.",
+      "Each bot has a job assigned to it (taking the rubbish out, gathering food, building the nest) and will do it relentlessly for its entire life."
+    ]
+  },
+  {
+    "term": "botnet",
+    "explanation": [
+      "It’s like a zombie army, ",
+      "full of dead-eyed, half-crazed people obeying the instructions of a remote and unseen master, without realizing they are part of a destructive tribe."
+    ]
+  },
+  {
+    "term": "breach notification",
+    "explanation": [
+      "It’s like bumping into a parked car and leaving a note on the windshield.",
+      "The owner of the other vehicle may not be around and may have no idea you caused them any damage, but you have to let them know, either by law or because you’re a nice person."
+    ]
+  },
+  {
+    "term": "browser",
+    "explanation": [
+      "It’s like a television set.",
+      "It takes in a broadcast from somewhere else. The TV turns that signal into a display so you can watch it. An older TV won’t be able to display some of the newer HD content properly. "
+    ]
+  },
+  {
+    "term": "browser fingerprinting",
+    "explanation": [
+      "It’s like bootprints in the snow.",
+      "They don’t identify you personally, but they offer clues – the make of the boot, the size you wear, the length of your stride, and the route you were taking."
+    ]
+  },
+  {
+    "term": "browser hijacking",
+    "explanation": [
+      "It’s like a friend moving the furniture around in your room while you’re asleep.",
+      "So when you wake up, you walk into the bathroom and fall out of the window."
+    ]
+  },
+  {
+    "term": "buffer overflow attack",
+    "explanation": [
+      "It’s like an evil plot to send a letterbomb to a bank.",
+      "The bank’s mail room is bomb-proof and will contain any explosion. So the plotter starts by sending 1000 harmless parcels. The mail room becomes so full that they have to start stacking mail outside in the corridor. The next parcel to arrive contains the bomb."
+    ]
+  },
+  {
+    "term": "bug",
+    "explanation": [
+      "It’s like the Leaning Tower of Pisa, ",
+      "which looked straight enough for the first five years but began to lean when a bug in the original design became clear. The foundations were only three meters deep in soil that was notoriously weak and unstable. Unfortunately, most software bugs don’t turn into lucrative tourist attractions."
+    ]
+  },
+  {
+    "term": "cache",
+    "explanation": [
+      "It's like a personal journal",
+      "of everywhere you visit and everything you do online. It all gets recorded automatically in the background and, just like your journal in real life, you can always erase the entries. "
+    ]
+  },
+  {
+    "term": "certificate",
+    "explanation": [
+      "It’s like a passport – ",
+      "issued by a central authority (the passport office / certificate authority), who independently establishes your identity and gives you a passport to prove it to others. Like a passport, a certificate will have in-built security and anti-fraud features."
+    ]
+  },
+  {
+    "term": "cloud computing",
+    "explanation": [
+      "It’s like a library, not a book store.",
+      "A simple way to access every book on the planet without having to own them all."
+    ]
+  },
+  {
+    "term": "cookie",
+    "explanation": [
+      "It’s like a barista with a good memory.",
+      "So every morning when you come in for your decaf soy latte with an extra shot and cream, they nod wearily and say ‘The usual?’"
+    ]
+  },
+  {
+    "term": "cybercrime",
+    "explanation": [
+      "It’s like putting a ghost on trial.",
+      "There is a view that cybercrime is an otherworldly activity that can’t be judged by ‘real world’ laws. You could attempt to prosecute a ghost for walking through a wall and invading your property. But the ghost might argue that this is OK in ghost world. Either way, it would make for an interesting trial."
+    ]
+  },
+  {
+    "term": "ddos attack",
+    "explanation": [
+      "It’s like a high school prank, ",
+      "where you post the details of your friend’s house party all over town, so instead of 20 people, 900 show up."
+    ]
+  },
+  {
+    "term": "dark web",
+    "explanation": [
+      "It’s like the dark side of the moon.",
+      "The bright side (the internet) is visible to everyone – all you have to do is look up. To access the dark side, you need specialist software (a rocket)."
+    ]
+  },
+  {
+    "term": "database",
+    "explanation": [
+      "It’s like your filing cabinet, not your junk drawer.",
+      "The data is organized into folders, rather than just thrown in at random."
+    ]
+  },
+  {
+    "term": "deidentification",
+    "explanation": [
+      "It’s like journalistic sources.",
+      "Journalists often ‘deidentify’ their sources by using phrases like ‘A high-ranking official’ or ‘A source close to the President’. This retains some useful information (the seniority of the source may affect the credibility of the story), but protects the individual involved (as long as the phrase is chosen carefully enough)."
+    ]
+  },
+  {
+    "term": "domain name servers",
+    "explanation": [
+      "It's like a contact list in your mobile phone.",
+      "You know your correspondents by their names but the contact list has telephone numbers and postal addresses. When you want to go to a particular web site, you look up the site's name (such as www.google.com) in the Domain Name lookup service and get back from that the Internet Protocol address of the destination Web Site."
+    ]
+  },
+  {
+    "term": "doxing",
+    "explanation": [
+      "It’s like vigilantism – ",
+      "a way for people to take the law into their own hands to ‘out’ someone. But, like vigilantism, it can have unintended consequences if the wrong person is outed or the effects go too far."
+    ]
+  },
+  {
+    "term": "encryption",
+    "explanation": [
+      "It’s like sending a sealed letter instead of a postcard.",
+      "To ban encryption would be like requiring all mail to be sent as postcards, including bank statements, medical letters and holiday photos. Your postman, neighbors and postal service would soon know you pretty well."
+    ]
+  },
+  {
+    "term": "firewall",
+    "explanation": [
+      "It’s like a nightclub bouncer who decides who’s going in and out.",
+      "From time to time, the approved guest list may change, but the bouncer is always the one who enforces it."
+    ]
+  },
+  {
+    "term": "http",
+    "explanation": [
+      "It’s like living in a glass house.",
+      "With HTTP, you have to bear in mind everything is unencrypted and theoretically open for others to see. That’s fine for some activities, but gets awkward with others. With HTTPS, you can draw the curtains and close the shutters."
+    ]
+  },
+  {
+    "term": "https",
+    "explanation": [
+      "It’s like wearing good headphones.",
+      "So the music is channelled directly to your ears and no one else gets to hear your favorite Nickelback CD."
+    ]
+  },
+  {
+    "term": "hackathon",
+    "explanation": [
+      "It’s like a regatta for geeks.",
+      "Everyone meets up for a series of races, using code instead of yachts. Some take it more seriously than others."
+    ]
+  },
+  {
+    "term": "hacking",
+    "explanation": [
+      "It’s like going into someone’s house without permission.",
+      "You may be up to no good or you may be letting them know there are flames coming out of the roof."
+    ]
+  },
+  {
+    "term": "honeypot",
+    "explanation": [
+      "It’s like flypaper.",
+      "Strips of the fragrant but sticky paper are hung around the internet to attract the internet pests."
+    ]
+  },
+  {
+    "term": "ip address",
+    "explanation": [
+      "It's like a postal address for the internet.",
+      "This is a numeric address that identifies where a destination computer is attached to the Internet, similar to a postal address for a destination residence or business. "
+    ]
+  },
+  {
+    "term": "internet service provider",
+    "explanation": [
+      "It’s like a gym.",
+      "You pay a monthly fee and some get more out of it than others. Hardcore users may sweat the broadband connection hard, uploading and downloading their bodyweight in files every month. Others may pop in now and again for some light social media action. You buy different packages depending on your lifestyle."
+    ]
+  },
+  {
+    "term": "machine learning",
+    "explanation": [
+      "It’s like reading tea leaves.",
+      "Because it’s about recognizing patterns in data in order to predict what comes next. Except it works."
+    ]
+  },
+  {
+    "term": "metadata",
+    "explanation": [
+      "It’s like what’s on the envelope.",
+      "Theoretically, metadata isn’t about the content of your messages, just the external details. But even that can tell you a lot – where it’s from, who it’s addressed to, how heavy it is. From that, you can start to identify the content – if it’s from a bank, it probably isn’t a love letter. Most digital metadata contains extra nuggets – the software you use, the top line of content, the IP address that can be matched with other online activity. So it can be a fairly transparent envelope."
+    ]
+  },
+  {
+    "term": "net neutrality",
+    "explanation": [
+      "It’s like highways without toll booths.",
+      "You can choose to make every road open to everyone equally. Or you can introduce toll booths for more direct routes. Unfortunately, you can’t create those fast direct routes without creating slow routes too. And some worry that slower roads will soon have speed bumps built in to make the premium ones more attractive."
+    ]
+  },
+  {
+    "term": "oauth",
+    "explanation": [
+      "It’s like hiring a gardener for your second home in Spain.",
+      "You already employ a trusted housekeeper who has a key and looks after the place while you’re away. Rather than give the gardener another key, you instruct the housekeeper to let them in and give them access to the shed. Now your house and garden are in great shape for your next visit – you have a good life."
+    ]
+  },
+  {
+    "term": "one-time password",
+    "explanation": [
+      "It’s like an infinite lottery ball machine.",
+      "Each number only comes out once, it’s impossible to predict, and you have a limited time to claim your winnings."
+    ]
+  },
+  {
+    "term": "open source",
+    "explanation": [
+      "It’s like baking a cake for a friend, then giving them the recipe.",
+      "The cake is the software, except tastier, and sharing the recipe is the open source part. Not only does your friend get to enjoy the cake, but they can also bake themselves another, or make it for another friend’s birthday, maybe using peanut butter this time instead of buttercream, because your friend is a genius."
+    ]
+  },
+  {
+    "term": "patch",
+    "explanation": [
+      "It’s like a patch on your jeans.",
+      "An update to an existing product that corrects a weak point in the knee area, and can sometimes be considered an aesthetic improvement."
+    ]
+  },
+  {
+    "term": "peer-to-peer",
+    "explanation": [
+      "It’s like a potluck picnic ",
+      "where each guest brings a different dish and everyone shares directly with each other. As opposed to a restaurant, where everyone places an order and waits for the kitchen to deliver food to the table."
+    ]
+  },
+  {
+    "term": "phishing",
+    "explanation": [
+      "It’s like a fake ATM ",
+      "that prints out an error message when you try to use it, but in the meantime has taken your credit card details and pin number."
+    ]
+  },
+  {
+    "term": "programming language",
+    "explanation": [
+      "It’s like a dialect.",
+      "Some argue this a better analogy than ‘language’, because it’s a version of a language you already know, with its own peculiar acronyms and quirks."
+    ]
+  },
+  {
+    "term": "proxy",
+    "explanation": [
+      "It’s like a celebrity’s agent ",
+      "who filters all fan mail and deals with the most routine requests. The agent is authorized by the celebrity to speak on their behalf and controls direct access to the celebrity."
+    ]
+  },
+  {
+    "term": "ransomware",
+    "explanation": [
+      "It’s like someone breaking into your house and changing the locks.",
+      "In fact, ransomware often arrives in the form of a trojan, so the intruder may not even have forced entry – unwittingly, you’ve allowed them in."
+    ]
+  },
+  {
+    "term": "router",
+    "explanation": [
+      "It’s like a receptionist, ",
+      "who handles all outgoing and incoming requests to your office. When a guest arrives, the receptionist knows who made the appointment and sends the guest to the right floor."
+    ]
+  },
+  {
+    "term": "sandboxing",
+    "explanation": [
+      "It’s like cages in a pet store.",
+      "You could let the pets roam around the store, but the dog might hassle the hamster, or the sickly iguana might infect the parrot. Better to keep them separate – no one wants a dead parrot in a pet shop."
+    ]
+  },
+  {
+    "term": "secure socket layer",
+    "explanation": [
+      "It’s like an elaborate fist-bump between a client and the server.",
+      "It begins with a standard knuckle-bump to establish contact, followed by some intricate palm-to-palm action to convey mutual trust, then some tight algorithmic finger-clasping as you exchange keys. The client then talks to the server in a weird street language no one else can understand."
+    ]
+  },
+  {
+    "term": "security key",
+    "explanation": [
+      "It’s like a wizard’s wand.",
+      "Without it, the wizard recites his secret spells and there’s always a chance someone can overhear him and learn the same spells. With the wand, only the wizard can wave it while reciting the spell. It’s a form of physical authentication."
+    ]
+  },
+  {
+    "term": "server",
+    "explanation": [
+      "It’s like a reservoir – ",
+      "a store of data for multiple users to download, via a browser rather than a tap. Like a reservoir, a server needs to be kept clean and healthy."
+    ]
+  },
+  {
+    "term": "spam",
+    "explanation": [
+      "It’s like an infinite number of monkeys ",
+      "locked in a room with an infinite number of typewriters and eventually producing the complete works of Shakespeare. Spam is sent out in ever vaster quantities as a way of playing the odds. Millions of people filter, delete or ignore it, but it only takes one response to make the exercise worthwhile."
+    ]
+  },
+  {
+    "term": "spoofing",
+    "explanation": [
+      "It’s like impersonating a police officer.",
+      "IP spoofing involves masquerading as a trusted host in order to gain sensitive information. It’s wrong and can get you into trouble."
+    ]
+  },
+  {
+    "term": "spyware",
+    "explanation": [
+      "It’s like hidden microphones.",
+      "Once installed, some spyware monitors every keystroke you make, picking up passwords, bank details, and the lyrics to that song you’ve been working on."
+    ]
+  },
+  {
+    "term": "tor",
+    "explanation": [
+      "It’s like an onion.",
+      "Tor stands for The Onion Router because it uses layer upon layer of protection to maximize anonymity. And trying to hack into it makes you cry."
+    ]
+  },
+  {
+    "term": "trojan",
+    "explanation": [
+      "It’s like a poisoned chalice.",
+      "Shakespeare was the first to introduce the idea of a poisoned chalice in Macbeth – a gift or honor that looks flattering at first, but ultimately proves destructive. Act 1, scene 7."
+    ]
+  },
+  {
+    "term": "troll",
+    "explanation": [
+      "It’s like road rage.",
+      "Given the relative anonymity of being encased in a machine, whether it’s a car or a computer, people shout and get aggressive in ways that would never occur to them if you were talking face to face."
+    ]
+  },
+  {
+    "term": "virtual private network",
+    "explanation": [
+      "It’s like a tunnel, not an open road.",
+      "If you’re working remotely, it’s like having a secure tunnel to your office, carrying the information back and forth, safe from prying eyes."
+    ]
+  },
+  {
+    "term": "virus",
+    "explanation": [
+      "It's like crabgrass. ",
+      "The weed infects your beautiful lawn, along with other weeds, growing everywhere. It's ruining your garden, driveway and patio. Trojan is a type of virus and the only way to remove it is with some weedkiller."
+    ]
+  },
+  {
+    "term": "wpa",
+    "explanation": [
+      "It’s like the President’s motorcade, ",
+      "complete with bulletproof car and motorcycle outriders. It escorts you safely from your device to your internet connection. But you still need extra security once you’re at the venue."
+    ]
+  },
+  {
+    "term": "white hat",
+    "explanation": [
+      "It’s like a good cowboy.",
+      "The term comes from old Western movies (see black hat), where the good guys and bad guys had a conveniently monochrome dress code."
+    ]
+  },
+  {
+    "term": "wiki",
+    "explanation": [
+      "It’s like a hotel visitor book.",
+      "As opposed to a hotel brochure. The content is made up entirely of public contributions."
+    ]
+  },
+  {
+    "term": "zero-day",
+    "explanation": [
+      "It’s like medics discovering a new virus.",
+      "No cure exists because no one was aware of the problem before. The race begins to develop a vaccine before the virus spreads."
+    ]
+  },
+  {
+    "term": "front end",
+    "explanation": [
+      "It’s like walking around a city.",
+      "You interact with the front end – the sidewalks, roads, shops, parks, and office blocks. What you don’t see is the back end that keeps the city ticking – the power lines, gas pipes, sewers, and building foundations hidden underground."
+    ]
+  }
+]
