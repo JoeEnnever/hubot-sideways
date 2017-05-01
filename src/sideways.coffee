@@ -1,13 +1,14 @@
 # Description:
-#  Makes it rain!
+#  Translate engineer to english
 #
 # Dependencies:
 #   None
 #
 # Configuration:
-#   HUBOT_SLACK_WEBHOOK_URL
+#   HUBOT_SIDEWAYS_CHANNEL_BLACKLIST
 #
 explanations = require './data/explanations.json'
+channelBlacklist = (process.env.HUBOT_SIDEWAYS_CHANNEL_BLACKLIST || '').split(",")
 jargon = for key of explanations
   "\\b#{key}\\b"
 regex = new RegExp jargon.join('|'), 'i'
@@ -17,6 +18,9 @@ module.exports = (robot) ->
     bytes = []
     bytes.push(x.charCodeAt(0)) for x in msg.message.text
     match = regex.exec(msg.message.text)
-    if match
-      unless http.test(msg.message.text)
-        msg.send "#{match[0]}: #{explanations[match[0].toLowerCase()].join("\n")}"
+    unless match
+      return
+    if http.test(msg.message.text)
+      return
+    if channelBlacklist.indexOf(msg.message.room) < 0
+      msg.send "#{match[0]}: #{explanations[match[0].toLowerCase()].join("\n")}"
